@@ -1,6 +1,6 @@
 {
   "name": "multi-stopwords",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "stopwords for multiple languages.",
   "main": "index.js",
   "scripts": {
